@@ -1,0 +1,9 @@
+{
+  "name": "neurongate-examples",
+  "version": "1.0.0",
+  "description": "Code examples for NeuronGate API",
+  "type": "module",
+  "dependencies": {
+    "openai": "^4.0.0"
+  }
+}
